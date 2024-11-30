@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "671a452e0e941112de86b01d"
+  },
+  "name": "ShadabK",
+  "dsg": "Trainer",
+  "salary": 137000,
+  "city": "Noida",
+  "state": "UP",
+  "email": "vishankchauhan@gmail.com",
+  "phone": "9873948046"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b01e"
+  },
+  "name": "Nitin Chauhan",
+  "email": "vishankchauhan@gmail.com",
+  "phone": "9873848046",
+  "dsg": "Trainer",
+  "salary": 194400,
+  "city": "Faridabad",
+  "state": "Haryana"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b01f"
+  },
+  "name": "Sumit Sharma",
+  "email": "sumitsharma@gmail.com",
+  "phone": "9873848044",
+  "dsg": "Trainer",
+  "salary": 67680,
+  "city": "Noida",
+  "state": "UP"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b020"
+  },
+  "name": "Sumit Verma",
+  "email": "verma sumit@gmail.com",
+  "phone": "9873848043",
+  "dsg": "Trainer",
+  "salary": 338400,
+  "city": "Gurugram",
+  "state": "Haryana"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b021"
+  },
+  "name": "Nitin Mishra",
+  "email": "nitinmishra@gmail.com",
+  "phone": "9873848042",
+  "dsg": "Accountant",
+  "salary": 341280,
+  "city": "Noida",
+  "state": "UP"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b022"
+  },
+  "name": "Nitin Saini",
+  "email": "nitinsaini@gmail.com",
+  "phone": "9873848041",
+  "dsg": "Coordinator",
+  "salary": 50400,
+  "city": "Faridabad",
+  "state": "Haryana"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b023"
+  },
+  "name": "Nitin Mehta",
+  "email": "mehtanitin@outlook.com",
+  "phone": "9873848040",
+  "dsg": "CEO",
+  "salary": 1349280,
+  "city": "Noida",
+  "state": "UP"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b024"
+  },
+  "name": "Rahul Sharma",
+  "email": "rahulsharma@gmail.com",
+  "phone": "9873848022",
+  "dsg": "Manager",
+  "salary": 482400,
+  "city": "Kanpur",
+  "state": "UP"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b025"
+  },
+  "name": "Mamta Jain",
+  "dsg": "Trainer",
+  "salary": 136800,
+  "city": "South Delhi",
+  "state": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b026"
+  },
+  "name": "Deepak Gupta",
+  "dsg": "Trainer",
+  "salary": 223200,
+  "city": "Patna",
+  "state": "Bihar"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b027"
+  },
+  "name": "Sachin Pathak",
+  "dsg": "Trainer",
+  "salary": 108000,
+  "city": "Patna",
+  "state": "Bihar"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b028"
+  },
+  "name": "Satyam Dixit",
+  "dsg": "Trainer",
+  "salary": 93600,
+  "city": "Noida",
+  "state": "UP"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b029"
+  },
+  "name": "Rahul Chandra",
+  "dsg": "Developer",
+  "salary": 53280,
+  "city": "Noida",
+  "state": "UP"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b02a"
+  },
+  "name": "Rahul Kumar",
+  "dsg": "HR",
+  "salary": 194400,
+  "city": "Faridabad",
+  "state": "Haryana"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b02b"
+  },
+  "name": "Bhavana Sharma",
+  "dsg": "Counsellor",
+  "salary": 79200,
+  "city": "Noida",
+  "state": "UP"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b02c"
+  },
+  "name": "Neha Dixit",
+  "dsg": "Counsellor"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b02d"
+  },
+  "name": "Renu Sharma",
+  "dsg": "Counsellor"
+},
+{
+  "_id": {
+    "$oid": "671a472d0e941112de86b02e"
+  },
+  "name": "Nikita Chauhan",
+  "dsg": "Trainer",
+  "salary": 194400,
+  "city": "Faridabad",
+  "state": "Haryana"
+}]
